@@ -18,7 +18,7 @@ assignment-1/
 
 
 ## How to Run
-```bash
+bash
 python echo_interface.py
 python calculator.py
 
