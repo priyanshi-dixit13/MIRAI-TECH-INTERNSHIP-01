@@ -65,4 +65,3 @@ streamlit run app.py
 - API key secured via .env (git-ignored)
 
 ## Screenshot
-Assignment -3
